@@ -1,4 +1,7 @@
 numpy
 pandas
 seaborn
--e .
+os
+sys
+
+#-e .
